@@ -13,3 +13,7 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 
+- [ ] Estoy haciendo una lista 
+- [ ] Importante que la sintaxis este bien
+- [ ] No se que mas poner
+  
